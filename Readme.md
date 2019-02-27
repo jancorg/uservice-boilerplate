@@ -7,7 +7,7 @@ just a minimal boilerplate / poc to play with tests
 
 ```
 npm install
-./index.js -c ./config/config.json
+npm start
 ```
  or 
 
