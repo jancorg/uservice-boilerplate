@@ -6,7 +6,7 @@ const basicAuth = require('express-basic-auth')
 let server = require('./lib/server')
 const morgan = require('morgan')
 
-const fs = require('fs')// comprobar que es un fichero que existe
+const fs = require('fs')
 
 
 // load config
